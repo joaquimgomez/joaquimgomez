@@ -1,4 +1,4 @@
-### Hi 👋 I'm Joa!
+## Hi 👋 I'm Joa!
 
 I'm a Computer Science student at **@UPC**. Currently I'm carrying out the Final Degree Thesis on NLP trying to found the best text similarity technique from the NLP zoo. For large texts, the small ones are overcomed.
 
@@ -9,3 +9,12 @@ I'm a Computer Science student at **@UPC**. Currently I'm carrying out the Final
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: My friends say I'm half productivity and half sleep 💻😴
 - 💬 Languages: I'm a language learning enthusiast. Try to challenge me in 🇦🇩/🇪🇸/🇬🇧/🇩🇪/🇯🇵.
+
+### GitHub Stats
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaquimgomez" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquimgomez&layout=compact" />
+</a>
