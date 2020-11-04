@@ -1,6 +1,6 @@
 ## Hi 👋  I'm Joa!
 
-I'm a Computer Science student at **@UPC**. Currently I'm carrying out the Final Degree Thesis on NLP trying to found the best text similarity technique from the NLP zoo. For large texts, the small ones are overcomed.
+I'm a Computer Science student at **@UPC**. Currently I'm carrying out the Final Degree Thesis on NLP trying to find the best text similarity technique from the NLP zoo. For large texts, the small ones are overcomed.
 
 - 🔭 I’m currently working at CIT-UPC as a Web Developer and SysAdmin
 - ⚙️ I use daily: `.py`, `.html`, `.css`, `.js`
