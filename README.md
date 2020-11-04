@@ -4,7 +4,7 @@ I'm a Computer Science student at **@UPC**. Currently I'm carrying out the Final
 
 - 🔭 I’m currently working at CIT-UPC as a Web Developer and SysAdmin
 - ⚙️ I use daily: `.py`, `.html`, `.css`, `.js`
-- 💻 Ecosystem: I am an Apple fanboy and I can't help it. Linux is an alternative. If you use Windows I just should suggest you a change
+- 💻 Ecosystem: I am an Apple fanboy and I can't help it. Linux is an alternative. If you use Windows, I just should suggest you a change
 - 🌱 I’m currently learning NLP techniques
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: My friends say I'm half productivity and half sleep 💻😴
