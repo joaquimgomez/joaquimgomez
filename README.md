@@ -1,20 +1,21 @@
-## Hi 👋  I'm Joa!
+## Hi 👋🏻  I'm Joa!
 
-I'm a Computer Science student at **@UPC**. Currently I'm carrying out the Final Degree Thesis on NLP trying to find the best text similarity technique from the NLP zoo. For large texts, the small ones are overcomed.
+I'm a Data Engineering and Analytics Master student **@TUM**. Currently I'm carrying out the Final Degree Thesis on NLP trying to find the best text similarity technique from the NLP zoo. For large texts, the small ones are overcomed.
 
-- 🔭 I’m currently working at CIT-UPC as a Web Developer and SysAdmin
-- ⚙️ I use daily: `.py`, `.html`, `.css`, `.js`
+- 🔭 Currently I don't work and I'm looking for an internship
+- ⚙️ I use daily: `.py`, `.js` & `.cpp`
 - 💻 Ecosystem: I am an Apple fanboy and I can't help it. Linux is an alternative. If you use Windows, I just should suggest you a change
-- 🌱 I’m currently learning NLP techniques
+- 🌱 I’m currently learning as much as possible about AI and Data
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: My friends say I'm half productivity and half sleep 💻😴
 - 💬 Languages: I'm a language learning enthusiast. Try to challenge me in 🇦🇩/🇪🇸/🇬🇧/🇩🇪/🇯🇵
+- 🌈 Part of the incredible variety in humans
 
 ### GitHub Stats
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaquimgomez" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaquimgomez?theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquimgomez&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquimgomez&layout=compact?theme=dark" />
 </a>
