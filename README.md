@@ -14,8 +14,8 @@ I'm a Data Engineering and Analytics Master student **@TUM**. Currently I'm carr
 ### GitHub Stats
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaquimgomez?theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaquimgomez&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquimgomez&layout=compact?theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaquimgomez&layout=compact&theme=dark" />
 </a>
