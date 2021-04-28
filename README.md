@@ -1,6 +1,6 @@
 ## Hi 👋🏻  I'm Joa!
 
-I'm a Data Engineering and Analytics Master student **@TUM**. Currently I'm carrying out the Final Degree Thesis on NLP trying to find the best text similarity technique from the NLP zoo. For large texts, the small ones are overcomed.
+I'm a Data Engineering and Analytics Master student **@TUM**. I’m so proud of my Final Degree Thesis on NLP, where I tried to find the best text similarity technique from the NLP zoo. For large texts, the small ones are overcome. You can know more in the pinned below repo.
 
 - 🔭 Currently I don't work and I'm looking for an internship
 - ⚙️ I use daily: `.py`, `.js` & `.cpp`
