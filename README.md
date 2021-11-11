@@ -9,7 +9,7 @@ I'm a Data Engineering and Analytics Master student **@TUM**. I’m so proud of 
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: My friends say I'm half productivity and half sleep 💻😴
 - 💬 Languages: I'm a language learning enthusiast. Try to challenge me in 🇦🇩/🇪🇸/🇬🇧/🇩🇪/🇯🇵
-- 🌈 Part of the incredible variety in humans
+- 🌈 Part of the incredible diversity in humans
 
 ### GitHub Stats
 
