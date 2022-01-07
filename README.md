@@ -4,7 +4,6 @@ I'm a Data Engineering and Analytics Master student **@TUM**. I’m so proud of 
 
 - 🔭 Currently I'm looking for an internship / junior position
 - ⚙️ I use daily: `.py`, `.js` & `.cpp`
-- 💻 Ecosystem: I am an Apple fanboy and I can't help it. Linux is an alternative. If you use Windows, I just should suggest you a change
 - 🌱 I’m currently learning as much as possible about AI and Data
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: My friends say I'm half productivity and half sleep 💻😴
